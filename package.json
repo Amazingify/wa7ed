@@ -1,0 +1,27 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.4.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "mocha": "^6.0.2",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.85.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.35"
+  }
+}
